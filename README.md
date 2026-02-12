@@ -14,3 +14,8 @@ jogo interativo de adivinhar números, desenvolvido como projeto fullstack. O ob
 
 
 
+
+
+https://github.com/user-attachments/assets/7e1c3005-fc08-4306-ace7-16fdf0e67bf5
+
+
